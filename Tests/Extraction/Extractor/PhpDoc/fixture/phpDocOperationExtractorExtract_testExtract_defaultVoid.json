@@ -1,0 +1,12 @@
+{
+  "swagger": "2.0",
+  "paths": {
+    "/service": {
+      "get": {
+        "parameters": [],
+        "responses": {}
+      }
+    }
+  },
+  "definitions": {}
+}
